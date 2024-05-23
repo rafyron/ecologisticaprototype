@@ -1,0 +1,12 @@
+Usuário: ADMIN, Data/Hora: 22/05/2024 21:52:48
+Usuário: ADMIN, Data/Hora: 22/05/2024 21:53:51
+Usuário: ADMIN, Data/Hora: 22/05/2024 21:57:53
+Usuário: ADMIN, Data/Hora: 22/05/2024 21:58:17
+Usuário desconectou. Data/Hora: 22/05/2024 21:58:22
+Usuário: USUARIO, Data/Hora: 22/05/2024 22:11:24
+Usuário: desconectou. Data/Hora: 22/05/2024 22:11:28
+Usuário: ADMIN, Data/Hora: 22/05/2024 22:11:35
+Usuário: desconectou. Data/Hora: 22/05/2024 22:11:44
+Usuário: USUARIO, Data/Hora: 22/05/2024 22:12:09
+Usuário: desconectou. Data/Hora: 22/05/2024 22:12:27
+Usuário: ADMIN, Data/Hora: 22/05/2024 22:12:37

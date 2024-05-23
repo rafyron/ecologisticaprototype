@@ -1,0 +1,41 @@
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.Form1.resources
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.Properties.Resources.resources
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.csproj.GenerateResource.cache
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.AssemblyInfoInputs.cache
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.AssemblyInfo.cs
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\bin\Debug\net8.0-windows\EcologisticaPrototype.exe
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\bin\Debug\net8.0-windows\EcologisticaPrototype.deps.json
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\bin\Debug\net8.0-windows\EcologisticaPrototype.runtimeconfig.json
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\bin\Debug\net8.0-windows\EcologisticaPrototype.dll
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\bin\Debug\net8.0-windows\EcologisticaPrototype.pdb
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.dll
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\refint\EcologisticaPrototype.dll
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.pdb
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.genruntimeconfig.cache
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\ref\EcologisticaPrototype.dll
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\bin\Debug\net8.0-windows\pt-BR\EcologisticaPrototype.resources.dll
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.Form1.pt-BR.resources
+C:\Users\USER-PC\Desktop\EcologisticaPrototype\EcologisticaPrototype\obj\Debug\net8.0-windows\pt-BR\EcologisticaPrototype.resources.dll
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\bin\Debug\net8.0-windows\EcologisticaPrototype.exe
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\bin\Debug\net8.0-windows\EcologisticaPrototype.deps.json
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\bin\Debug\net8.0-windows\EcologisticaPrototype.runtimeconfig.json
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\bin\Debug\net8.0-windows\EcologisticaPrototype.dll
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\bin\Debug\net8.0-windows\EcologisticaPrototype.pdb
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\bin\Debug\net8.0-windows\pt-BR\EcologisticaPrototype.resources.dll
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.Form1.resources
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.Form2.resources
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.Properties.Resources.resources
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.Form1.pt-BR.resources
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.csproj.GenerateResource.cache
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.AssemblyInfoInputs.cache
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.AssemblyInfo.cs
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.csproj.CoreCompileInputs.cache
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\pt-BR\EcologisticaPrototype.resources.dll
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.dll
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\refint\EcologisticaPrototype.dll
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.pdb
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\EcologisticaPrototype.genruntimeconfig.cache
+D:\Downloads\ecologisticaprototype-main (1)\ecologisticaprototype-main\EcologisticaPrototype\obj\Debug\net8.0-windows\ref\EcologisticaPrototype.dll

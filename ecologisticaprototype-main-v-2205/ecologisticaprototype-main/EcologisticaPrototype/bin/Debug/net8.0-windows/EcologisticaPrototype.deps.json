@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EcologisticaPrototype/1.0.0": {
+        "runtime": {
+          "EcologisticaPrototype.dll": {}
+        },
+        "resources": {
+          "pt-BR/EcologisticaPrototype.resources.dll": {
+            "locale": "pt-BR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcologisticaPrototype/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
